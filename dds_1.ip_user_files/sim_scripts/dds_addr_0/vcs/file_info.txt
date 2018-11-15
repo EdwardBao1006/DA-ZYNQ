@@ -1,0 +1,4 @@
+Language File-Name     IP          Library         File-Path                                                      
+Verilog, dds_addr.v,   dds_addr_0, xil_defaultlib, ../../../../dds_1.srcs/sources_1/ip/dds_addr_0/dds_addr.v      
+Verilog, dds_addr_0.v, dds_addr_0, xil_defaultlib, ../../../../dds_1.srcs/sources_1/ip/dds_addr_0/sim/dds_addr_0.v
+Verilog, glbl.v,       *,          xil_defaultlib, glbl.v                                                         
